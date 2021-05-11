@@ -1,0 +1,27 @@
+{
+  "name": "download-m3u8",
+  "version": "1.0.0",
+  "description": "download m3u8 video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yitm/download-m3u8.git"
+  },
+  "keywords": [
+    "m3u8"
+  ],
+  "author": "easy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yitm/download-m3u8/issues"
+  },
+  "homepage": "https://github.com/yitm/download-m3u8#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "request-promise": "^4.2.6"
+  }
+}
